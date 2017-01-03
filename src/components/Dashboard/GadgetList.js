@@ -1,6 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 
+
 const Div = styled.div`
   background-color: #DE9C9C;
   float: left;
@@ -21,3 +22,6 @@ const GadgetList = () => {
 };
 
 export default GadgetList;
+
+
+// UNUSED FILE. replaced by gadget-list.js and a whole entire redux implementation
